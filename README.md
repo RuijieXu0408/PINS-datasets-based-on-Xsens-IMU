@@ -52,5 +52,6 @@ This experiment mainly uses the three-axis accelerometer and three-axis gyroscop
 Fig.3. The samples of dataset
 
 # Citations
-This dataset is collected for our PINS positioning research, if you use this dataset please cite our paper which will available next year.
+This dataset is collected for our PINS positioning research, if you use this dataset please cite:
+Xu R, Chen S, Bai S, et al. Nonlinearity-aware ZUPT-aided Pedestrian Inertial Navigation based on Cubature Kalman Filter in Urban Canyons[J]. IEEE Transactions on Instrumentation and Measurement, 2024.
 
